@@ -18,14 +18,47 @@ Este treinamento também fará referências a utilização de seus conteúdos di
 ### Recursos úteis
 
 * Contruindo Datesets
-* Cosumindo API dos Correios
-* Armazendo dados da API em um dataset Customizado
-
-
+* Boas práticas em desenvolvimento web
+* Conceitos web gerais
+* Editores de código
+* Como funcionam os navegadores
+* Utilização do console para inspeção de código
+* Criação de estrutura básica de uma página web
+* Utilização de TAGS semânticas
+* Inclusão de imagens em páginas
+* Criação de listas ordenadas e desordenadas
+* Aplicação de links internos e externos
+* Criação de tabelas
+* Exemplo de caminhos relativo e absoluto
+* Implementação de tabelas semânticas
+* Desenvolvimento de formulários
+* Utilização de bibliotecas externas públicas
+* Formatações básicas em CSS
+* Manipulação de elementos de bloco
+* Utilização de margin e padding
+* Chamada de arquivo CSS externo
+* Criação de layout de exemplo
+* Exemplo de ID e Classe
+* Implementação de BootStrap
+* Exemplo de grid no Bootstrap
+* Utilização de evento onclick
+* Declaração de variáveis
+* Cálculos aritméticos
+* Criação de funções
+* Condicionais IF/ELSE
+* Chamada de arquivo JS externo
+* Comparação de valores
+* Seleção de objeto por ID, CLASSE ou TAG
+* Inclusão de conteúdo via JS
+* Concatenar variáveis e textos
+* Criação de ARRAYS
+* Criação de objetos JS
+* Seleção de elemento por índice de array
+* Utilização do recurso APPEND do JQUERY 
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido como exemplo pelo time fluig Academy. 
+Material de apoio para o treinamento desenvolvido pelo time fluig Academy. 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
