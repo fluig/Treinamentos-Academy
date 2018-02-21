@@ -4,7 +4,7 @@ Repositórios de exemplos
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-# Treinamento fluig Dev Start
+# Fluig Dev Start
 
 Objetivo
 ----
@@ -26,7 +26,7 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-# Treinamento BPM / ECM INTERMEDIATE
+# BPM / ECM INTERMEDIATE
 
 Objetivo
 ----
@@ -48,7 +48,7 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Treinamento BPM / ECM ADVANCED
+# BPM / ECM ADVANCED
 
 Objetivo
 ----
@@ -69,7 +69,7 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# Treinamento Desenvolvimento de Portais com WCM
+# Desenvolvimento de Portais com WCM
 
 Objetivo
 ----
@@ -91,7 +91,7 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Treinamento Fluig vs RM
+# Fluig vs RM
 
 Objetivo
 ----
