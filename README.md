@@ -17,7 +17,6 @@ Este treinamento também fará referências a utilização de seus conteúdos di
 
 ### Recursos úteis
 
-* Contruindo Datesets
 * Boas práticas em desenvolvimento web
 * Conceitos web gerais
 * Editores de código
