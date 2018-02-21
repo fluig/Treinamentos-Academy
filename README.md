@@ -1,6 +1,6 @@
 # Treinamentos-Academy
 
-Neste repositório você irá encontrar todos os exemplos e exercícios utilizados nos treinamentos do fluig Academy, permitindo que os alunos façam download do respectivo treinamento e praticar!
+Neste repositório você irá encontrar todos os exemplos e exercícios utilizados nos treinamentos do fluig Academy, permitindo que os alunos façam download do respectivo treinamento e pratiquem!
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
