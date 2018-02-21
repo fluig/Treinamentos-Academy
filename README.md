@@ -57,7 +57,7 @@ Este treinamento também fará referências a utilização de seus conteúdos di
 
 ### Origem do desenvolvimento
 
-Material de apoio para o treinamento desenvolvido pelo time fluig Academy. 
+Material de apoio desenvolvido pelo time fluig Academy. 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
