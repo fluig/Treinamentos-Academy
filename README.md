@@ -1,5 +1,9 @@
 # Treinamentos-Academy
-Este repositório possui todos os exemplos utilizados nos treinamentos produzidos pelo time do fluig Academy, permitindo que o aluno possa baixar o conteúdo do seu respectivo curso e praticar! 
+Tornar o abismo entre o desenvolvimento web e pessoas leigas algo superável com um passo, possibilitando a gestores uma melhor compreensão de prazos por parte da sua equipe, bem como propiciar uma maior participação de analistas em discussões técnicas.
+
+Vendedores também poderão argumentar com mais propriedade e leigos terão acesso um possível caminho como profissional do segmento de desenvolvimento web.
+
+Este treinamento também fará referências a utilização de seus conteúdos diretamente no fluig. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
