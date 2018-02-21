@@ -1,5 +1,5 @@
 # Treinamentos-Academy
-Este repositório possui todos os exemplos utilizandos nos treinamentos produzidos pelo time do fluig Academy, permitindo que o aluno possa baixar o conteúdo do seu respectivo curso e praticar! 
+Este repositório possui todos os exemplos utilizados nos treinamentos produzidos pelo time do fluig Academy, permitindo que o aluno possa baixar o conteúdo do seu respectivo curso e praticar! 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
