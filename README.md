@@ -1,9 +1,5 @@
 # Treinamentos-Academy
-Tornar o abismo entre o desenvolvimento web e pessoas leigas algo superável com um passo, possibilitando a gestores uma melhor compreensão de prazos por parte da sua equipe, bem como propiciar uma maior participação de analistas em discussões técnicas.
 
-Vendedores também poderão argumentar com mais propriedade e leigos terão acesso um possível caminho como profissional do segmento de desenvolvimento web.
-
-Este treinamento também fará referências a utilização de seus conteúdos diretamente no fluig. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,7 +7,11 @@ Este treinamento também fará referências a utilização de seus conteúdos di
 
 Objetivo
 ----
-Este exemplo, visa demonstrar como manipular Datasets para consultar dados de API REST sem autenticação.
+Tornar o abismo entre o desenvolvimento web e pessoas leigas algo superável com um passo, possibilitando a gestores uma melhor compreensão de prazos por parte da sua equipe, bem como propiciar uma maior participação de analistas em discussões técnicas.
+
+Vendedores também poderão argumentar com mais propriedade e leigos terão acesso um possível caminho como profissional do segmento de desenvolvimento web.
+
+Este treinamento também fará referências a utilização de seus conteúdos diretamente no fluig. 
 
 
 ### Recursos úteis
