@@ -131,10 +131,13 @@ Este exemplo, visa demonstrar como manipular Datasets para consultar dados de AP
 * Armazendo dados da API em um dataset Customizado
 
 
-
 ### Origem do desenvolvimento
 
 Projeto desenvolvido como exemplo pelo time fluig Academy. 
+
+###  Acesse o curso no portal fluig Academy
+
+[Desenvolvimento de Portais com WCM](http://academy.fluig.com/ng/student/courses/desenvolvimento-de-portais-com-wcm/)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
