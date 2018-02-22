@@ -141,24 +141,23 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-
 # Fluig vs RM
 
 Objetivo
 ----
-Este exemplo, visa demonstrar como manipular Datasets para consultar dados de API REST sem autenticação.
-
+Exemplo de integrações do fluig com o RM em formulário, processo e widget.
 
 ### Recursos úteis
 
-* Contruindo Datesets
-* Cosumindo API dos Correios
-* Armazendo dados da API em um dataset Customizado
+* Desenvolvimento de Dataset que consulta a base de dados do RM.
+* Desenvolvimento de formulário integrado com o RM.
+* Desenvolvimento de processo integrado com o RM.
+* Desenvolvimento de widget integrada com o RM.
 
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido como exemplo pelo time fluig Academy. 
+Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração fluig x RM.
 
 ###  Acesse o curso no portal fluig Academy
 
