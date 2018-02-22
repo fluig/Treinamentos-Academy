@@ -108,7 +108,7 @@ Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração 
 
 ###  Acesse o curso no portal fluig Academy
 
-[BPM / ECM ADVANCED] (http://academy.fluig.com/ng/student/courses/desenvolvimento-de-processos-bpm-barra-ecm-advanced/)
+[BPM / ECM ADVANCED](http://academy.fluig.com/ng/student/courses/desenvolvimento-de-processos-bpm-barra-ecm-advanced/)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -155,7 +155,7 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 
 ###  Acesse o curso no portal fluig Academy
 
-[Fluig x RM] (http://academy.fluig.com/ng/student/courses/integracao-fluig-x-rm/)
+[Fluig x RM](http://academy.fluig.com/ng/student/courses/integracao-fluig-x-rm/)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
