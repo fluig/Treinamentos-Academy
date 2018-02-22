@@ -59,6 +59,10 @@ Este treinamento também fará referências a utilização de seus conteúdos di
 
 Material de apoio desenvolvido pelo time fluig Academy. 
 
+###  Acesse o curso no portal fluig Academy
+
+[Fluig Dev Start](http://academy.fluig.com/ng/student/courses/fluig-dev-start/)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
