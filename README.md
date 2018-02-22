@@ -66,20 +66,25 @@ Material de apoio desenvolvido pelo time fluig Academy.
 
 Objetivo
 ----
-Este exemplo, visa demonstrar como manipular Datasets para consultar dados de API REST sem autenticação.
+Exemplo de um processo de Solicitação de Novo Ponto Comercial, contendo formulário e workflow.
 
 
 ### Recursos úteis
 
-* Contruindo Datesets
-* Cosumindo API dos Correios
-* Armazendo dados da API em um dataset Customizado
-
-
+* Desenvolvimento de formulários com fluig Style Guide
+* Recurso Zoom para consulta de entidade e outros formulários
+* Recurso Pai x Filho para tabela dinâmica dentro do formulário
+* Criação de workflows desenvolvidos no fluig Studio
+* Preechimento automático de endereço por consulta a API de CEP
+* Processo compatível com dispositivos móveis
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido como exemplo pelo time fluig Academy. 
+Projeto desenvolvido pelo time fluig Academy para o treinamento de desenvolvimento de workflows e formulários através do fluig Studio BPM/ECM Intermediate.
+
+###  Acesse o curso no portal fluig Academy
+
+[BPM/ECM - Intermediate](http://academy.fluig.com/ng/student/courses/desenvolvimento-de-processos-bpm-barra-ecm-intermediate/)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,6 +105,11 @@ Exemplo de integrações do fluig com o RM em formulário, processo e widget.
 ### Origem do desenvolvimento
 
 Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração fluig x RM.
+
+###  Acesse o curso no portal fluig Academy
+
+[BPM / ECM ADVANCED] (http://academy.fluig.com/ng/student/courses/desenvolvimento-de-processos-bpm-barra-ecm-advanced/)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -139,10 +149,13 @@ Este exemplo, visa demonstrar como manipular Datasets para consultar dados de AP
 * Armazendo dados da API em um dataset Customizado
 
 
-
 ### Origem do desenvolvimento
 
 Projeto desenvolvido como exemplo pelo time fluig Academy. 
+
+###  Acesse o curso no portal fluig Academy
+
+[Fluig x RM] (http://academy.fluig.com/ng/student/courses/integracao-fluig-x-rm/)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
