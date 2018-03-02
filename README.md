@@ -121,19 +121,24 @@ Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração 
 
 Objetivo
 ----
-Este exemplo, visa demonstrar como manipular Datasets para consultar dados de API REST sem autenticação.
-
+Destinado aos analistas que querem conhecer sobre o card. O WCM promove gestão de conteúdo, colaboração e funcionalidades de administração de portal na Web. 
 
 ### Recursos úteis
 
-* Contruindo Datesets
-* Cosumindo API dos Correios
-* Armazendo dados da API em um dataset Customizado
+* Desenvolvimento de Layout 
+* Criação de slots
+* Desenvolvimento de Widgets
+* Utilização de notações de freemarker
+* Utilizando o recurso data-params 
+* Utilizando a função binding
+* Manipulação de datasets através da biblioteca VCXMLRPC
+* Customização de layouts e Widgets com a biblioteca fluig Style Guide 
+* Requisições SOAP e REST
 
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido como exemplo pelo time fluig Academy. 
+Projeto desenvolvido pelo time fluig Academy para o treinamento de Desenvolvimento de Portais com WCM
 
 ###  Acesse o curso no portal fluig Academy
 
