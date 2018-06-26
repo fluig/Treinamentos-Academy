@@ -191,7 +191,7 @@ Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração 
 
 ###  Acesse o curso no portal fluig Academy
 
-[Fluig x Protheus](http://academy.fluig.com/courses/integrando-o-fluig-com-o-erp-protheus)
+[Fluig x Protheus](http://academy.fluig.com/courses/integracao-fluig-e-protheus)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
