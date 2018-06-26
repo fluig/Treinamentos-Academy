@@ -146,7 +146,7 @@ Projeto desenvolvido pelo time fluig Academy para o treinamento de Desenvolvimen
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# Fluig vs RM
+# Fluig x RM
 
 Objetivo
 ----
@@ -167,6 +167,31 @@ Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração 
 ###  Acesse o curso no portal fluig Academy
 
 [Fluig x RM](http://academy.fluig.com/ng/student/courses/integracao-fluig-x-rm/)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# Fluig x Protheus
+
+Objetivo
+----
+Aprenda como integrar o seu fluig com o ERP Protheus, através de webservices SOAP e API REST utilizando o recurso de datasets e o facilitador de integrações.
+
+### Recursos úteis
+
+* Desenvolvimento de Dataset que consulta (GET) webservice do protheus .
+* Desenvolvimento de Dataset que cria (CREATE) registro no protheus.
+* Desenvolvimento de Dataset atualiza registro (UPDATE) do protheus.
+* Desenvolvimento de Dataset que fazem riquisições via REST para o protheus.
+* Trabalhando com constraints (filtros) para a passagem de parâmetros. 
+* Manipulação de Datasets via wizard de integração.
+
+### Origem do desenvolvimento
+
+Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração fluig x Protheus.
+
+###  Acesse o curso no portal fluig Academy
+
+[Fluig x Protheus](http://academy.fluig.com/courses/integrando-o-fluig-com-o-erp-protheus)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
