@@ -108,7 +108,7 @@ Exemplo de integrações do fluig com o RM em formulário, processo e widget.
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração fluig x RM.
+Projeto desenvolvido pelo time fluig Academy para o treinamento de Integração fluig x RM.
 
 ###  Acesse o curso no portal fluig Academy
 
@@ -187,7 +187,7 @@ Aprenda como integrar o seu fluig com o ERP Protheus, através de webservices SO
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido pelo time fluig Academy para o treinamento de Tntegração fluig x Protheus.
+Projeto desenvolvido pelo time fluig Academy para o treinamento de Integração fluig x Protheus.
 
 ###  Acesse o curso no portal fluig Academy
 
