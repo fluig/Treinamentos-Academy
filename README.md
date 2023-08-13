@@ -79,7 +79,7 @@ Exemplo de um processo de Solicitação de Novo Ponto Comercial, contendo formul
 * Recurso Zoom para consulta de entidade e outros formulários
 * Recurso Pai x Filho para tabela dinâmica dentro do formulário
 * Criação de workflows desenvolvidos no fluig Studio
-* Preechimento automático de endereço por consulta a API de CEP
+* Preenchimento automático de endereço por consulta a API de CEP
 * Processo compatível com dispositivos móveis
 
 ### Origem do desenvolvimento
